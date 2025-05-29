@@ -37,14 +37,14 @@ class HomePage extends StatelessWidget {
           children: [
             UserAccountsDrawerHeader( 
               decoration: BoxDecoration(color:const Color.fromARGB(255, 103, 39, 176)),
-              accountName: Text("Yisus Castañeda 0565"),accountEmail: Text("a.22308051280565@cbtis128.edu.mx"),
+              accountName: Text("Jesus Castañeda 0565"),accountEmail: Text("a.22308051280565@cbtis128.edu.mx"),
               currentAccountPicture: GestureDetector(
                 child: CircleAvatar(
                   backgroundColor: Colors.white,
                   child: Text(
-                    "YC",
+                    "JC",
                     style: TextStyle(
-                        color: Colors.pink,
+                        color: const Color.fromARGB(255, 165, 41, 202),
                         fontSize: 20.0,
                         fontWeight: FontWeight.bold),
                   ),
