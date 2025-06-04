@@ -5,3 +5,5 @@
 - ![image](https://github.com/user-attachments/assets/2ea38c23-b590-43c8-8ec0-302c59dd64b2)
 - form sucursales
 - ![image](https://github.com/user-attachments/assets/0d0a08e1-764e-4ad5-bf92-a5b935ec3efa)
+- form productos
+- ![image](https://github.com/user-attachments/assets/2a56704a-0156-45ab-a5bc-bac245f39f9d)
